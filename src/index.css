@@ -22,8 +22,14 @@ body,
 
 .palette{
   position: absolute;
-  left:30%;
+  left:35%;
   bottom:0;
+}
+
+@media screen and (max-width:600px){
+  .palette{
+    left:20%;
+  }
 }
 
 .pictureBlock{
@@ -47,6 +53,7 @@ body,
   top:0;
 }
 .button{
+  /* outline: none; */
   border-radius:8px;
   border: 2px solid #fff;
   background-color: #939;
