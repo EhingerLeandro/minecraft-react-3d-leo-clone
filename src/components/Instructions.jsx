@@ -27,10 +27,11 @@ function Instructions() {
             fontSize:"25px", 
             marginBottom:"15px"}}>Information</div>
           
-          <div>1- Select other blocks using the keyboard <br></br>  upper numbers.</div> <br></br>
-          <div>2- Use ESC to exit first person view.</div><br></br>
-          <div>3- Remove Block = Shift + Click.</div><br></br>
-          <div>4- Jump or Fly with space.</div><br></br>
+          <div>1- Select other blocks using the keyboard<br></br>upper numbers.</div><br></br>
+          <div>2- Use A, W, S, D to move around.</div><br></br>
+          <div>3- Use ESC to exit first person view.</div><br></br>
+          <div>4- Remove Block = Shift + Click.</div><br></br>
+          <div>5- Jump or Fly with space.</div><br></br>
           <div>
             <button style={{marginLeft:"90%"}} 
               className="button"
